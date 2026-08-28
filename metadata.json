@@ -1,0 +1,6 @@
+{
+  "name": "MY STORY OS",
+  "description": "Sistem digital terpadu untuk perencanaan, penulisan, pengorganisasian, dan pengelolaan manuskrip buku bagi penulis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
